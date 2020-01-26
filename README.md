@@ -5,4 +5,6 @@ $pkg install cowsay
 $pkg install ruby
 $pkg install git
 $git clone https://github.com/ariffirmanfirdaus/v1Coy
-$cd
+$cd v1Coy
+$chmod 777 v1Coy
+
