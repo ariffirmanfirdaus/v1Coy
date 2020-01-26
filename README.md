@@ -7,4 +7,6 @@ $pkg install git
 $git clone https://github.com/ariffirmanfirdaus/v1Coy
 $cd v1Coy
 $chmod 777 v1Coy
+$ls
+$sh script10
 
